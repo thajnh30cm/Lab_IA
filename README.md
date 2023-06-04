@@ -16,7 +16,7 @@ This script scans a target website for JavaScript components and checks for vuln
    ```shell
    pip install argparse requests beautifulsoup4
 
-Usage
+##Usage
 1. Open a terminal or command prompt.
 
 2. Navigate to the directory where the script file is located.
@@ -36,15 +36,19 @@ Usage
 Follow the prompts and view the scan results for vulnerabilities or security headers.
 
 
-Example
+##Example
 To scan a website for vulnerabilities and check security headers, run the following command:
    ```shell
    python vulnerability_scanner.py -v -s https://example.com
    ```
  Replace https://example.com with the URL of the website you want to scan.
 
-Contributing
+##Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-License
+##License
 ....
+
+
+
+# DEMO
